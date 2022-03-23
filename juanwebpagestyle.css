@@ -59,6 +59,7 @@ button {
     margin-left: auto;
     margin-right: auto;
     font-wieght: bold;
+    cursor: pointer;
     
 }
 
@@ -98,12 +99,3 @@ form{
     width: 336px;
     height: 225px;
 }
-/* Here is the code for the data fall effect from the Matrix:(
-#matrixDataFall {
-    position: fixed;
-    right: 0;
-    bottom: 0
-    min-width: 100%:
-    min-height: 100%;
-
-}*/
