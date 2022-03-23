@@ -2,6 +2,7 @@
 UPDATE AO 22 MAR 2022
 
 I made corrections to give the website more functionality. The next step in refining this website is to store the feedback from the survey posted on the feedback page (page 3). Fellow Software Developers I invite you to comment and give your feedback for making this better and code cleaner. 
+<!---End of Update--->
 
 
 This is the code for the first website built from scratch.  During the course of two weeks students in the STEP-IT-UP
