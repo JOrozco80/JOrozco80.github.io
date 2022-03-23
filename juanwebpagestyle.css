@@ -41,6 +41,16 @@ footer {
     margin-right: auto;
 }
 
+anchor {
+color: greenyellow;
+    background-color: #2B2D2F;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    font-wieght: bold;
+    cursor: pointer;
+}
+
 span {
     color: greenyellow;
     margin-left: auto;
